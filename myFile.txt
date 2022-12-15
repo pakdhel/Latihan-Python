@@ -1,0 +1,4 @@
+{'name': 'fadhel hayat', 'age': '20', 'contact': '32893298'}
+{'name': 'adi', 'age': '29', 'contact': '2940753'}
+{'name': 'jiji', 'age': '38', 'contact': '2394948'}
+{'name': 'dede', 'age': '30', 'contact': '20309330'}
