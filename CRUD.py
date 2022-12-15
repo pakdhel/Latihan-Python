@@ -84,7 +84,6 @@ def delete(file=None):
 
 
 if __name__ == "__main__":
-    myLst = []
     file = open("myFile.txt", "a")
     while True:
         print("MENU")
